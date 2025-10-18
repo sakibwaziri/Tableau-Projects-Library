@@ -1,7 +1,3 @@
-Here’s a **professional and efficient project description** you can add to your **GitHub README file** for your **Tableau dashboards project** 👇
-
----
-
 ## 📊 Project Overview
 
 This project showcases a collection of **interactive Tableau dashboards** designed to transform raw data into meaningful insights. Each dashboard presents key performance indicators (KPIs), trends, and visual analytics that support **data-driven decision-making** across various business domains.
